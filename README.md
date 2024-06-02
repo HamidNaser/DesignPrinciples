@@ -1,3 +1,5 @@
+# Design Principles
+
 ### 🚀 SOLID Principles
 
 ✅ Single Responsibility Principle (SRP)
