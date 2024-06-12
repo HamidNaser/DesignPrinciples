@@ -1,3 +1,15 @@
+✅ Single Responsibility Principle (SRP)
+A class should have only one reason to change, meaning it should have only one job or responsibility.
+✅ Open/Closed Principle (OCP)
+Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
+✅ Liskov Substitution Principle (LSP)
+Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+✅ Interface Segregation Principle (ISP)
+Clients should not be forced to depend on interfaces they do not use.
+✅ Interface Segregation Principle (ISP)
+Clients should not be forced to depend on interfaces they do not use.
+
+
 # Design Principles
 
 ### 🚀 SOLID Principles
